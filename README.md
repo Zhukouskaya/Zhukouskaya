@@ -3,9 +3,9 @@
 ### CV: https://zhukouskaya.github.io/rsschool-cv/
 
 ### Projects:
-#### **1. Clever Shop** (Directory name: [training-shop](https://github.com/Zhukouskaya/training-shop), [Link](https://zhukouskaya.github.io/training-shop/))
-#### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFEPRESCHOOL/portfolio/))
-#### **3. Shelter** (Directory name: [shelter](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFE2022Q1/shelter/pages/main/index.html))
+#### **1. Clever Shop** (Directory name: [training-shop](https://github.com/Zhukouskaya/training-shop), [deploy link](https://zhukouskaya.github.io/training-shop/))
+#### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/training-shop), [deploy link](https://rolling-scopes-school.github.io/zhukouskaya-JSFEPRESCHOOL/portfolio/))
+#### **3. Shelter** (Directory name: [shelter](https://github.com/Zhukouskaya/training-shop), [deploy link](https://rolling-scopes-school.github.io/zhukouskaya-JSFE2022Q1/shelter/pages/main/index.html))
 
 ### My contact:
 #### Phone: +375 29 147 64 74
