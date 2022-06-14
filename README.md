@@ -5,10 +5,10 @@
 
 ### Projects:
 #### **1. Clever Shop** (Directory name: [training-shop](https://github.com/Zhukouskaya/training-shop), [Link](https://zhukouskaya.github.io/training-shop/))
-#### **2. Portfolio** (Directory name: [portfolio,](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFEPRESCHOOL/portfolio/))
-#### **3. Shelter** (Directory name: [shelter,](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFE2022Q1/shelter/pages/main/index.html))
+#### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFEPRESCHOOL/portfolio/))
+#### **3. Shelter** (Directory name: [shelter](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFE2022Q1/shelter/pages/main/index.html))
 
-### My contact: 
+### My contact:
 #### Phone: +375 29 147 64 74
 #### E-mail: lizaveta.zhukouskaya@gmail.com
 #### Telegram: @Elizaveta_zhuk
