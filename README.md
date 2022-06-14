@@ -10,9 +10,7 @@
 #### LinkedIn: [linkedin.com/in/lizaveta-zukouskaya/](http://linkedin.com/in/lizaveta-zukouskaya/)
 
 ## Projects:
-#### **1. Clever Shop** 
-##### ([code](https://github.com/Zhukouskaya/training-shop))
-##### [Link:](https://zhukouskaya.github.io/training-shop/)
+#### **1. Clever Shop** ([Code,](https://github.com/Zhukouskaya/training-shop) [Link:](https://zhukouskaya.github.io/training-shop/))
 
 
 
