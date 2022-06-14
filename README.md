@@ -1,16 +1,20 @@
-# Lizaveta Zhukouskaya
-# Frontend Developer (React)
+### Lizaveta Zhukouskaya
+### Frontend Developer (React)
 
-## CV: https://zhukouskaya.github.io/rsschool-cv/
+### CV: https://zhukouskaya.github.io/rsschool-cv/
 
-## My contact: 
+### Projects:
+#### **1. Clever Shop** (Directory name: [training-shop](https://github.com/Zhukouskaya/training-shop), [Link](https://zhukouskaya.github.io/training-shop/))
+#### **2. Portfolio** (Directory name: [portfolio,](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFEPRESCHOOL/portfolio/))
+#### **3. Shelter** (Directory name: [shelter,](https://github.com/Zhukouskaya/training-shop), [Link](https://rolling-scopes-school.github.io/zhukouskaya-JSFE2022Q1/shelter/pages/main/index.html)))
+
+### My contact: 
 #### Phone: +375 29 147 64 74
 #### E-mail: lizaveta.zhukouskaya@gmail.com
 #### Telegram: @Elizaveta_zhuk
 #### LinkedIn: [linkedin.com/in/lizaveta-zukouskaya/](http://linkedin.com/in/lizaveta-zukouskaya/)
 
-## Projects:
-#### **1. Clever Shop** ([Code,](https://github.com/Zhukouskaya/training-shop) [Link:](https://zhukouskaya.github.io/training-shop/))
+
 
 
 
