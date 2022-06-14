@@ -1,5 +1,4 @@
-### Lizaveta Zhukouskaya
-### Frontend Developer (React)
+### Lizaveta Zhukouskaya - Frontend Developer (React)
 
 ### CV: https://zhukouskaya.github.io/rsschool-cv/
 
