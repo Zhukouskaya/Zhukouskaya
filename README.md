@@ -4,7 +4,7 @@
 
 ### Projects:
 #### **1. Clever Shop** (Directory name: [training-shop](https://github.com/Zhukouskaya/training-shop), [deploy link](https://zhukouskaya.github.io/training-shop/))
-#### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/training-shop), [deploy link](https://rolling-scopes-school.github.io/zhukouskaya-JSFEPRESCHOOL/portfolio/))
+#### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/portfolio), [deploy link](https://zhukouskaya.github.io/portfolio/)))
 #### **3. Shelter** (Directory name: [shelter](https://github.com/Zhukouskaya/training-shop), [deploy link](https://rolling-scopes-school.github.io/zhukouskaya-JSFE2022Q1/shelter/pages/main/index.html))
 
 ### My contact:
