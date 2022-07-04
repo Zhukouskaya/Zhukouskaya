@@ -1,7 +1,5 @@
 ### Lizaveta Zhukouskaya - Frontend Developer (React)
 
-### CV: https://zhukouskaya.github.io/rsschool-cv/
-
 ### Projects:
 #### **1. Clever Shop** (Directory name: [training-shop](https://github.com/Zhukouskaya/training-shop), [deploy link](https://zhukouskaya.github.io/training-shop/))
 #### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/portfolio), [deploy link](https://zhukouskaya.github.io/portfolio/))
