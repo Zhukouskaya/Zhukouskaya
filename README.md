@@ -5,7 +5,7 @@
 #### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/portfolio), [deploy link](https://zhukouskaya.github.io/portfolio/))
 #### **3. Shelter** (Directory name: [shelter](https://github.com/Zhukouskaya/shelter), [deploy link](https://zhukouskaya.github.io/shelter/pages/main/index.html))
 #### **4. CssSlider** (Directory name: [css-slider](https://github.com/Zhukouskaya/cssMemSlider/tree/gh-pages), [deploy link](https://zhukouskaya.github.io/cssMemSlider/cssMemSlider/index.html))
-#### **5. ToDo List** (Directory name: [ToDo List](https://github.com/Zhukouskaya/ToDoList/tree/main), [deploy link](https://zhukouskaya.github.io/ToDoList/))
+#### **5. ToDo List** (Directory name: [ToDo List](https://github.com/Zhukouskaya/todo-list), [deploy link](https://zhukouskaya.github.io/todo-list/))
 
 ### My contact:
 #### Phone: +375 29 147 64 74
