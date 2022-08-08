@@ -6,6 +6,7 @@
 #### **3. Shelter** (Directory name: [shelter](https://github.com/Zhukouskaya/shelter), [deploy link](https://zhukouskaya.github.io/shelter/pages/main/index.html))
 #### **4. CssSlider** (Directory name: [css-slider](https://github.com/Zhukouskaya/cssMemSlider/tree/gh-pages), [deploy link](https://zhukouskaya.github.io/cssMemSlider/cssMemSlider/index.html))
 #### **5. ToDo List** (Directory name: [ToDo List](https://github.com/Zhukouskaya/todo-list), [deploy link](https://zhukouskaya.github.io/todo-list/))
+#### **6. Aim game** (Directory name: [Aim game](https://github.com/Zhukouskaya/Aim-game), [deploy link](https://zhukouskaya.github.io/Aim-game/))
 
 ### My contact:
 #### Phone: +375 29 147 64 74
