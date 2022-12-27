@@ -1,5 +1,3 @@
-### Lizaveta Zhukouskaya - Frontend Developer (React)
-
 ### Projects:
 #### **1. Clever Shop** (Directory name: [training-shop](https://github.com/Zhukouskaya/training-shop), [deploy link](https://zhukouskaya.github.io/training-shop/))
 #### **2. Portfolio** (Directory name: [portfolio](https://github.com/Zhukouskaya/portfolio), [deploy link](https://zhukouskaya.github.io/portfolio/))
